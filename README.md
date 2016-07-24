@@ -1,5 +1,5 @@
 # DownloadCounterJSON
-Download counter script/page using sourceforge API for the ChromiumOS for all sbc project.
+Download counter script/page using Sourceforge API for the ChromiumOS for all sbc project.
 
 Copyright (C) 2016  CarlosiDev
 Copyright (C) 2016  pedro-javierf
