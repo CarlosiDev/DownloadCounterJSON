@@ -1,7 +1,7 @@
 # DownloadCounterJSON
 Download counter script/page using Sourceforge API for the ChromiumOS for all sbc project.
 
-Copyright (C) 2016  CarlosiDev
+Copyright (C) 2016  CarlosiDev<br>
 Copyright (C) 2016  pedro-javierf
 
     This program is free software: you can redistribute it and/or modify
